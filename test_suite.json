@@ -1,0 +1,16 @@
+{
+    "test_cases": [
+        {
+            "id": "TC001",
+            "input": "What is Python?",
+            "system_prompt": "Answer the user's question clearly and accurately.",
+            "model_output": "Python is a high-level programming language widely used for software development, data science, automation, and artificial intelligence.",
+            "expected_output": "Python is a high-level programming language used for programming and many applications such as data science and automation.",
+            "criteria": [
+                "correctness",
+                "completeness",
+                "instruction_following"
+            ]
+        }
+    ]
+}
